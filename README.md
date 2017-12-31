@@ -1,2 +1,2 @@
-# pom-parent
-Pom parent for java based projects
+# parent-pom 
+Parent pom for java based projects
